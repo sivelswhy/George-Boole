@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Judson:ital@0;1&family=Passions+Conflict&display=swap');
+
+body {
+    margin: 0;
+    color: rgb(255, 255, 255);
+    background-color: #444;
+    cursor: inherit;
+    margin-left: 5px;
+    /* overflow: hidden; */
+}
+
+.divheader {
+    background-color:#222;
+    display: flex;
+    align-items: baseline;
+    /* padding: .5rem; */
+    /* gap: 1rem; */
+    box-shadow: 0 0 16px 0 rgba(0,0,0,.8);
+    font-family: 'Judson', serif;
+    color: #ffffff;
+    text-align: center;
+    justify-content: center;
+    margin-left: 0px;
+    /* margin: 0;
+    padding: -100rem; */
+    
+}
+.citations {
+    font-family: 'Passions Conflict', cursive;
+    font-size: 2.3rem;
+}
+.citations a {
+    text-decoration: underline;
+    color: #ffffff;
+}
+.metiers a {
+    text-decoration: none;
+    color: #ffffff;
+}
