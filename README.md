@@ -4,7 +4,7 @@
 # George Bool School Project
 ## Features
 
-- Full Dark Mode
+- Full Dark Mode coverage
 - Responsive Website
 - Full coverage of George Boole
 - Made with love
