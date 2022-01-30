@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/github/last-commit/sivelswhy/George-Boole?label=LAST%20COMMIT&style=for-the-badge">               <img src="https://img.shields.io/github/stars/sivelswhy/George-Boole?style=social">
+<img src="https://img.shields.io/github/last-commit/sivelswhy/George-Boole?label=LAST%20COMMIT&style=for-the-badge">        [![Netlify Status](https://api.netlify.com/api/v1/badges/2f14554b-4953-41d6-99fb-4fea89d7a45a/deploy-status)](https://app.netlify.com/sites/george-boole/deploys)       <img src="https://img.shields.io/github/stars/sivelswhy/George-Boole?style=social">
 
 
 # George Bool School Project
