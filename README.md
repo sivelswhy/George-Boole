@@ -8,6 +8,7 @@
 - Responsive Website
 - Full coverage of George Boole
 - Made with love
+- Trying to make it PWA available :)
 
 
  ### Available on [Netlify](https://george-boole.netlify.app) or on [Github Pages](https://sivelswhy.github.io/George-Boole/)
