@@ -5,11 +5,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css" />
+    <link rel="apple-touch-icon" href="/assets/img/téléchargement.jpg">
+    <link rel="icon" type="image/png" href="/assets/img/téléchargement.jpg" />
     <title>George Boole</title>
+    <link rel="manifest" href="manifest.json" />
 </head>
 <body>
     <script src="script.js" defer></script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-3S62TTDK8Q"></script>
+    <script>
+        if('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('/sw.js')
+        }
+    </script>
     <body>
         <div class="divheader">
             <h1>George Boole</h1>
@@ -54,8 +62,8 @@
         </div>
         <div class="inventions">
             <h2>Inventions</h2>
-            <p>George Boole a créer l'agèbre binaire également connu sous<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Boolean" target='_blank' style='text-decoration: none; color:#006cf8; ' > Booléenne (boolean en anglais), <img src="assets/img/external.png" style="width:15px; height:15px;pointer-events:none;"></a>  cette algèbre n'accepte que les uniques valeurs de <strong>0 et de 1</strong>, qui peut être traduit par "vrai ou faux".<br>
-            Cette algèbre va avoir de nombreuses applications de téléphonie et en informatique, notamment grâce à Claude Shannon en 1938, plus d'un siècle plus tard. Cet invention fût pratique dans les languages de programmations tel que le <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target='_blank' style='text-decoration: none; color:#006cf8; ' > JavaScript.<img src="assets/img/external.png" style="width:15px; height:15px;pointer-events:none;"> </a></p>
+            <p>George Boole a créer l'agèbre binaire également connu sous<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Boolean" target='_blank' style='text-decoration: none; color:#006cf8; ' > Booléenne (boolean en anglais), <img src="assets/img/external.png" style="width:15px; height:15px;pointer-events:none;" alt="Se rendre sur le site"></a>  cette algèbre n'accepte que les uniques valeurs de <strong>0 et de 1</strong>, qui peut être traduit par "vrai ou faux".<br>
+            Cette algèbre va avoir de nombreuses applications de téléphonie et en informatique, notamment grâce à Claude Shannon en 1938, plus d'un siècle plus tard. Cet invention fût pratique dans les languages de programmations tel que le <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target='_blank' style='text-decoration: none; color:#006cf8; ' > JavaScript.<img src="assets/img/external.png" style="width:15px; height:15px;pointer-events:none;" alt="Se rendre sur le site"> </a></p>
         </div><br><br><br>
         <div class="citations">
             <h2 style='font-family:arial; font-size:1.7rem;'> Citations</h2>

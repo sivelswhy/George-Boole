@@ -1,0 +1,20 @@
+{
+  "name": "george-boole",
+  "version": "1.0.0",
+  "description": "<img src=\"https://img.shields.io/github/last-commit/sivelswhy/George-Boole?label=LAST%20COMMIT&style=for-the-badge\">               <img src=\"https://img.shields.io/github/stars/sivelswhy/George-Boole?style=social\">",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sivelswhy/George-Boole.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sivelswhy/George-Boole/issues"
+  },
+  "homepage": "https://github.com/sivelswhy/George-Boole#readme"
+}
