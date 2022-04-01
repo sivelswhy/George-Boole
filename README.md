@@ -4,12 +4,12 @@
 # George Bool School Project
 ## Features
 
-- Full Dark Mode coverage
-- Responsive Website
-- Full coverage of George Boole
-- Made with love
-- PWA availability
-
+- 🌃 Full Dark Mode coverage
+- ➕ Responsive Website
+- 🤸 Full coverage of George Boole
+- ❤️ Made with love
+- 💻 PWA availability
+- 👮 GDPR Legal 
 
  ### Available on [Netlify](https://george-boole.netlify.app) or on [Github Pages](https://sivelswhy.github.io/George-Boole/)
 
